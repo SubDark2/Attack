@@ -1,0 +1,251 @@
+{
+  "paths": [
+    {
+      "url": "https://tayseerme.com/config",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/PaymentPersonalData/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/static",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/SuccessPayment/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/media",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/users",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/private",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/upload",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/search",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/index",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/forum",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/FundingRequests/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/wp-admin",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/phpmyadmin",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/profile",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/admin/login",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/public",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/register",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/assets",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetails/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/FundingRequestDetails/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/dashboard",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/backup",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/scripts",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/docs",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/FailedOrder/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetailsRequiredData/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/dashboard/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/admin",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/users/login/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/logout",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/css",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/assets/index.2f0ea05e.js",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/test",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/SuccessOrder/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/user",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/ServiceRequestConfirmation/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/login",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/database",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/help",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/wp-includes",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/settings",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/images",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/ChoosePaymentMethod/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/api",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/wp-content",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/downloads",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/js",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/Services/",
+      "status": 200
+    },
+    {
+      "url": "https://tayseerme.com/payments/",
+      "status": 200
+    }
+  ],
+  "js_analysis": {
+    "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js": {
+      "external_urls": [
+        "https://popper.js.org)",
+        "https://getbootstrap.com/)",
+        "https://github.com/twbs/bootstrap/blob/main/LICENSE)",
+        "https://github.com/twbs/bootstrap/graphs/contributors)"
+      ],
+      "possible_keys": [],
+      "source_map": "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js.map",
+      "xss_candidates": []
+    },
+    "https://tayseerme.com/assets/index.2f0ea05e.js": {
+      "external_urls": [
+        "https://reactjs.org/docs/error-decoder.html?invariant=",
+        "https://tayseerme.com,",
+        "https://bit.ly/3cXEKWf",
+        "https://redux.js.org/Errors?code=",
+        "https://lea.verou.me",
+        "http://www.w3.org/2000/svg",
+        "http://www.w3.org/1998/Math/MathML",
+        "http://www.w3.org/1999/xhtml",
+        "http://feross.org",
+        "https://opensource.org/licenses/MIT",
+        "https://tayseerme.com",
+        "http://www.w3.org/1999/xlink",
+        "http://www.w3.org/XML/1998/namespace"
+      ],
+      "possible_keys": [],
+      "source_map": null,
+      "xss_candidates": []
+    }
+  },
+  "security_headers": {
+    "Content-Security-Policy": "Missing",
+    "Strict-Transport-Security": "Missing",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Permissions-Policy": "Missing"
+  },
+  "shodan": [],
+  "dom_snapshot": "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0\"><style type=\"text/css\">       html, body { margin: 0; padding: 0; font-family: Verdana, Arial, sans-serif; font-size: 10pt; background-color: #ffffff;}       h1, h2 { height: 82px; text-indent: -999em; margin: 0; padding: 0; margin: 0; }       div { margin: 0; padding: 0; }       div.header { background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPMAAAFnCAMAAABEqI/sAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NkNFNDFGRjY4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NkNFNDFGRjU4RjA5MTFFNEExNzFEMUU2MzhGQjBDODIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjIxMTA5MTFFOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxMTA5MTFGOEYwNTExRTRCMEJDODJCRjc3M0M3RkRBIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JNJBmgAAAwBQTFRFzM7LyConBDlYhgIC625RA3B4oaOg/OXkkygY6AAB04ly2U4trWxL1cG+l7q8a2porwIE6MzDqKqotLe0dnZ0owECkZOQg4OAUiVAAHq05MKbwcPAmZuYfH17jY+MhYaEz9DOycrHrrCtxMbC/f/8iImHu7y5xcfE0NLP1tfU+fv40tTR0dPQ9vj13d/c+/364ePgx8nG5+nm3uDd6+3pubu45efk2NrXVVZU7/HuDne82tzZIx8ewwAAuQAA8vTwAHzHvsC9AJXssLKv2QABTMD/XsX/0QAAEIPPS0dF9fz+AInay9HTYmNg6AENRLv/0n9+BmyslQAAAKf/NTAvDI/hAKL/8EE37/b54hYVzpCQ6O/ybsn9Ha3+5xsbKLP9DJv04AAA0trezKSj5Ortw7u611BP1Wxt4ysrwsnLuMHEAJ/90YiJdgYB1HZzvgsQ5NbW0Jyb20JD8U9FA2CZetD/tauqAElzyaypA3GO4Tw6v5SSzAACu87Y1Flap73JKycmohsaq7O3maGkBlWG1+bw2GRhlS0uP7X40AMIy19e2B4h356bjZSWyrSzvn59CYyLJISWLqXkt2RiuYVtrUZE/soKko2O9JM/AISmGYmhezs6CpugKYCsiri/+p8MtpuWAIXJTKGt/vDx9I8lD1+P/bsCplFPn5maCWiSIpfTiJyqWJi3AIyWK2OESLnxxtvqf4B+cqCxfLHCr4eFtzcx28rC+5ITG4rE+64Kpr/BB5PevUBD1aqM0KSYJq+00beprnJpXbbn65NV29nera6rn6CeYX6Qnr3SAKDw48O2Gp63Smp+7Hwtx8nYk8PbqVY4CZzm69TTEb3i94MZAGqi7FlDj3BvT7jAsrOxS53MAKTOIlBvvb68nZ6cp6imYGFfellb6rAE5ak9Hj9b4kojnsznzZ9X9AgK4L/CX2Be/cZl/MhG9lYg62lpACc9xMbDibXVkVBd02tdlpeV9OLYpJBl1tjVbGB68WUNzFo2tLWyt7m2/PHksrSx////H2Ud+wAAAQB0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AFP3ByUAAC5JSURBVHja7J0JYBNV/senloaCQGrSWpFS1ESTSZs0Z5M0m6YhwUJIoRTQQAUkbQqJFErFUmhLobXQUko57CIIyOHBJYIIKgiK4HIpKx54rK6ut6vr+t911133/1//75iZzCTpgQ1n51fI8ea9X95nvu/K5M17hKTnGSHveUbwOvM68zrzOvM68zrzOvM68zrzOvM68zrzOvM6X6jO6T3PeJ15nXmdeZ15nXmdeZ15nXmdeZ15nS+izrKeZ7zOvM68zrzOvM5Xmc5pPc94nXmdeZ15nXmdeZ15nXmdeZ15nXmdeZ15nbups6HnGWHueUboe571SObMnmeEtucZoe55xuvcQ3TuiW2YsecZoet5RpDYepTOqp5ntM49yXideZ15na8tnXtq/8zX52u8PqOrnz1M555YtsU9z3rkfbEyTY+zHlmfZTJe556gM7+eAb+eAa8zrzOvM68zrzOvM68zrzOvM68zrzOvM68zrzO/bgW/PknP0lkm0xAc02hwELxESDDPIFCm0YRE46alritGjqchQmJyo1xandNIXWZmcDZkZqbaQhp1IEStgo9atU6lBsE6kiQtaiYmiKYzkjAiK0Rl0anVIKKKE09FkmnsIBCms3CiAE+XVGeZhjSN4FpKuir//vvvP08uux/asjL0mEakbWPHMiUTaXI5J+0ao3DEiDwibQ07UFhBEhqSEzQij6zgvDdcSqEJIHPmwt9wLTl92d3A7pehp7snlqGnZaRuDTfeOLGF5KQVkiNAqJ1M5sZLJEl1IjelZhvnvUAjv6Q6E+pxIcyJvvsRs2MGgm3tj55K7GRLSMQRGjnnfZ4EMjuIEObfbCMsIcwO7ulbY5BcWp21gHmcMGh523yoTJc7cNluxW/vryBTQfZMdCyQaqGDTE4Uwhd5KGyNBjEjnfOoeCZ0bnSJTCRoieKKRKFwIfO5Avtl0HmESEzffiR2iGWErwKY2AefNlXY8dsKAjKvceBoEqhcikRjt0NOkUMsdjjEBHoNdV6Y4kA/9hrs+DQkwgNi+hMcYonMLkGfixI6LofOI8TML1dp6elly5ARcgI2LRoSv9WoELMExSpTCdGb9DSVCeJIYJ8jVzM6L0yxo24oXQWCFoows4b6ABg1nSTR58pwd5V+GerzOMYSiVtuQBX4fp9EBv8I/Pbu5ahsL6TjwdfbDBJCh5jt6E5EXVDnbQYZE7RQQCQGP0NIyMCplBFGyOxACS/xOAzrzDKThHwTM1do4GlJM76JmrS7K9NC2zCTSJJOZiJmGYxJZrJ0lsiZoIWiNFYbNsJOoCM6pLPmcqw3FNpuj3DIKJ0rDHikRem8SRPKnAxUwjrjqFydJaE60x9AFQqWzpd4XSmq3U5mLFVMlOXPBJZfgeufsWwGfiuHzEIca03yCKRYWpd0roA6L0zECdeAtgNO0KJ0Bu1H2mXROdhug6ZWg+YfSOx2giwrK4OT+NFbgxzW51SHmGm3x12QzuNEVOsMirOGrTMekV9ynUGBltMjfjn5JuqPezFjz/Pw6Xx/1G6novZYnqZKRi1xBzqnh+m8ZhttsPxQOsOShHqLS64zu14RZXgc9gM19sTjsPM+3D9j/TRGyCwwUDqLwnROCW+3g7bQINHQOms029ZUaC61zgvhZ2uYMw1qWj5iFi+jxp7oFOQ70uCAcY0d11MdZK6QpZGoTxbJ0rg6/4ajsyA9dOwJCoiK0rkiOXENKDiXVGfjiHELR2ChsGnk5GL2eBsNv/++zUGsGTdu4Rox1plMBl0t0FlD5uEXKNA0btwIkQbEG5dClQcYNC5FlgiSjltIGyog6eBzTSI7UbFmDVV4Ltl6BqSREIsqQPsZNFC9Kjdt2iTuDx83Vfi+Ac8isYwk7Q6BQyKnpsXaRRUODRhOyQ0iEehmUSABXxOkTxSMB4IEDiLd7hCxDOpMgs8VGQiSqKjYdikXViDQJQw7b"
+}
