@@ -1,32 +1,17 @@
 {
   "metadata": {
     "target": "https://tayseerme.com",
-    "scan_date": "2025-08-01 14:47:44",
-    "scan_duration": 50.59
+    "scan_date": "2025-08-01 14:50:22",
+    "scan_duration": 53.92
   },
   "paths": [
     {
-      "url": "https://tayseerme.com/config",
+      "url": "https://tayseerme.com/backup",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/assets",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/static",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js",
-      "status_code": 200,
-      "content_type": "application/javascript"
-    },
-    {
-      "url": "https://tayseerme.com/api",
+      "url": "https://tayseerme.com/public",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -36,57 +21,7 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/scripts",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/ServicesDetails/",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/admin",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/css",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/backup",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/PaymentPersonalData/",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/FundingRequests/",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/test",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/users",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
       "url": "https://tayseerme.com/register",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/user",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -96,7 +31,67 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/FailedOrder/",
+      "url": "https://tayseerme.com/help",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/css",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/media",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/upload",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/images",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/js",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/login",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/ServiceRequestConfirmation/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/assets",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/scripts",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/database",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/dashboard/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/search",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -106,12 +101,37 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/downloads",
+      "url": "https://tayseerme.com/config",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/wp-content",
+      "url": "https://tayseerme.com/users/login/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/dashboard",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/ChoosePaymentMethod/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/admin",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/FailedOrder/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/logout",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -126,67 +146,27 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/forum",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/dashboard/",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/public",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/upload",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/wp-includes",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/search",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/ServiceRequestConfirmation/",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/database",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/docs",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/wp-admin",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/login",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
       "url": "https://tayseerme.com/assets/index.2f0ea05e.js",
       "status_code": 200,
       "content_type": "application/javascript"
     },
     {
-      "url": "https://tayseerme.com/users/login/",
+      "url": "https://tayseerme.com/api",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/forum",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/static",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/FundingRequests/",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -196,22 +176,12 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/ChoosePaymentMethod/",
+      "url": "https://tayseerme.com/wp-admin",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/js",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/images",
-      "status_code": 200,
-      "content_type": "text/html; charset=utf-8"
-    },
-    {
-      "url": "https://tayseerme.com/media",
+      "url": "https://tayseerme.com/users",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -221,7 +191,22 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/index",
+      "url": "https://tayseerme.com/FundingRequestDetails/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/PaymentPersonalData/",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/test",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/docs",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -231,17 +216,22 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/logout",
+      "url": "https://tayseerme.com/private",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/help",
+      "url": "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js",
+      "status_code": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://tayseerme.com/user",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/dashboard",
+      "url": "https://tayseerme.com/index",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
@@ -251,42 +241,42 @@
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/private",
+      "url": "https://tayseerme.com/ServicesDetails/",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     },
     {
-      "url": "https://tayseerme.com/FundingRequestDetails/",
+      "url": "https://tayseerme.com/wp-content",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/downloads",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://tayseerme.com/wp-includes",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8"
     }
   ],
   "js_analysis": {
-    "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js": {
-      "urls": [
-        "https://github.com/twbs/bootstrap/blob/main/LICENSE)",
-        "https://github.com/twbs/bootstrap/graphs/contributors)",
-        "https://getbootstrap.com/)",
-        "https://popper.js.org)"
-      ],
-      "api_endpoints": [],
-      "sensitive_data": []
-    },
     "https://tayseerme.com/assets/index.2f0ea05e.js": {
       "urls": [
-        "http://www.w3.org/XML/1998/namespace",
+        "https://opensource.org/licenses/MIT",
+        "http://www.w3.org/1999/xlink",
+        "https://tayseerme.com,",
+        "https://bit.ly/3cXEKWf",
         "http://www.w3.org/1999/xhtml",
         "https://redux.js.org/Errors?code=",
-        "https://opensource.org/licenses/MIT",
-        "https://tayseerme.com",
-        "https://bit.ly/3cXEKWf",
         "http://www.w3.org/2000/svg",
-        "https://reactjs.org/docs/error-decoder.html?invariant=",
-        "http://feross.org",
-        "https://tayseerme.com,",
-        "http://www.w3.org/1998/Math/MathML",
         "https://lea.verou.me",
-        "http://www.w3.org/1999/xlink"
+        "https://tayseerme.com",
+        "http://www.w3.org/XML/1998/namespace",
+        "https://reactjs.org/docs/error-decoder.html?invariant=",
+        "http://www.w3.org/1998/Math/MathML",
+        "http://feross.org"
       ],
       "api_endpoints": [
         "/api/bookmarks",
@@ -325,27 +315,23 @@
           ]
         }
       ]
+    },
+    "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js": {
+      "urls": [
+        "https://popper.js.org)",
+        "https://github.com/twbs/bootstrap/graphs/contributors)",
+        "https://getbootstrap.com/)",
+        "https://github.com/twbs/bootstrap/blob/main/LICENSE)"
+      ],
+      "api_endpoints": [],
+      "sensitive_data": []
     }
   },
   "forms": [],
   "headers": {
-    "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js": {
+    "https://tayseerme.com/public": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:02 GMT",
-      "Content-Type": "application/javascript",
-      "Last-Modified": "Sun, 24 Dec 2023 11:48:16 GMT",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding",
-      "ETag": "W/\"65881a80-e759\"",
-      "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
-      "Cache-Control": "max-age=315360000",
-      "Access-Control-Allow-Origin": "*",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31D2FEE66D6F7F340AB9D2A0A4;Expires=Sat, 01 Aug 2026 11:50:09 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/api": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:02 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:40 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -354,141 +340,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31F63AF58F3968A957FE6B68F7;Expires=Sat, 01 Aug 2026 11:50:09 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/assets": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:03 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31498F24333F6C46B0E61598B5;Expires=Sat, 01 Aug 2026 11:50:10 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/test": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:03 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31DE85F8D0494F7F1B0D499871;Expires=Sat, 01 Aug 2026 11:50:10 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/PaymentPersonalData/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:03 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3177B44D5EC5B1A2C872545A45;Expires=Sat, 01 Aug 2026 11:50:10 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/css": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:03 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E316B1AE58B7D5979F92D4F07CA;Expires=Sat, 01 Aug 2026 11:50:10 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/config": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:04 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31207503FFC930462B7FF49C70;Expires=Sat, 01 Aug 2026 11:50:11 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/SuccessPayment/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:04 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E310C2A2E7DB0631A3DB67FA647;Expires=Sat, 01 Aug 2026 11:50:11 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/scripts": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:04 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31FC4D11ECF1CA4A98114F809B;Expires=Sat, 01 Aug 2026 11:50:11 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/users": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:04 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3126EFEDFE034D7FB053FB1853;Expires=Sat, 01 Aug 2026 11:50:11 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/admin": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:04 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31F7B951A00BA6BBE0A932790F;Expires=Sat, 01 Aug 2026 11:50:11 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/ServicesDetails/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:05 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3127F85065DA448A1314C7953F;Expires=Sat, 01 Aug 2026 11:50:12 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31418FC21C0056C876091AE293;Expires=Sat, 01 Aug 2026 11:52:47 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/register": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:05 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:40 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -497,11 +353,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31B6504D716950A5AAB39074CD;Expires=Sat, 01 Aug 2026 11:50:12 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31CB3E315ADAAA77707A5E6C78;Expires=Sat, 01 Aug 2026 11:52:47 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/backup": {
+    "https://tayseerme.com/SuccessPayment/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:05 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:41 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -510,76 +366,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3101EE701C5C5FF42F39ECAB98;Expires=Sat, 01 Aug 2026 11:50:12 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/user": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:06 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31F89C135842577DFC3177EC31;Expires=Sat, 01 Aug 2026 11:50:13 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/phpmyadmin": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:06 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31054AA60A5BB291FBFB4FE3C0;Expires=Sat, 01 Aug 2026 11:50:13 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/FundingRequests/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:06 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E314C8FAD6CEE082702DFE58FAF;Expires=Sat, 01 Aug 2026 11:50:13 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/static": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:06 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E315F3326A0BA8CA15F64D9F01C;Expires=Sat, 01 Aug 2026 11:50:13 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/FailedOrder/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:07 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E314CD322110F90BE2B49BC1725;Expires=Sat, 01 Aug 2026 11:50:14 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31EBC0281762DF5204DB057C80;Expires=Sat, 01 Aug 2026 11:52:48 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/payments/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:08 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:41 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Content-Length": "0",
       "Connection": "keep-alive",
@@ -589,11 +380,11 @@
       "X-Content-Type-Options": "nosniff",
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Set-Cookie": "cookiesession1=678A3E31BDD039490B172FA8E40D8E88;Expires=Sat, 01 Aug 2026 11:50:15 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E311E01B048449DE5677BEEDC6D;Expires=Sat, 01 Aug 2026 11:52:48 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/downloads": {
+    "https://tayseerme.com/help": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:19 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:41 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -602,11 +393,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E319987A46AE717873791C67B56;Expires=Sat, 01 Aug 2026 11:50:26 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31B9229B08C0E4CE0B89BAD8E5;Expires=Sat, 01 Aug 2026 11:52:48 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/SuccessOrder/": {
+    "https://tayseerme.com/backup": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:20 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:42 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -615,11 +406,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31F5653D7214140E8C1F5A1E6A;Expires=Sat, 01 Aug 2026 11:50:27 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31CBDA5108D494DDE53D9BD441;Expires=Sat, 01 Aug 2026 11:52:49 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/wp-content": {
+    "https://tayseerme.com/css": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:21 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:42 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -628,11 +419,141 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31AAE9873D4240D2F5A9F3B2E0;Expires=Sat, 01 Aug 2026 11:50:28 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31303DB1132CDAFB554B059497;Expires=Sat, 01 Aug 2026 11:52:49 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/upload": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:42 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3144EF06BA319391247B6E7A29;Expires=Sat, 01 Aug 2026 11:52:49 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/assets": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:43 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E316B2DCB4AACF486D6FB23FBBE;Expires=Sat, 01 Aug 2026 11:52:50 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/media": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:43 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E318AD85B919102DABC7380B1D4;Expires=Sat, 01 Aug 2026 11:52:50 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/login": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:43 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3152DD9A27A3BB31325A8E630E;Expires=Sat, 01 Aug 2026 11:52:50 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/images": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:44 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E311754A903406BDE6B75C5B55A;Expires=Sat, 01 Aug 2026 11:52:51 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/ServiceRequestConfirmation/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:44 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31118EC8F59817691F51DCD12E;Expires=Sat, 01 Aug 2026 11:52:51 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/js": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:44 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E312EFA768EB867577510BB13BE;Expires=Sat, 01 Aug 2026 11:52:51 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/database": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:44 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3177EB1FBC68D1D1CD5D6411D9;Expires=Sat, 01 Aug 2026 11:52:52 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/scripts": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:45 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31D2065B8DA61CCFBDE62E2ED0;Expires=Sat, 01 Aug 2026 11:52:52 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/search": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:45 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E315EADAFC44651F2CC5E956ABC;Expires=Sat, 01 Aug 2026 11:52:52 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/dashboard/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:21 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:46 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Content-Length": "0",
       "Connection": "keep-alive",
@@ -642,11 +563,11 @@
       "X-Content-Type-Options": "nosniff",
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Set-Cookie": "cookiesession1=678A3E31E73DCC92CCA8519DFC0E1248;Expires=Sat, 01 Aug 2026 11:50:28 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31CDF21EB1C0429B2122F13824;Expires=Sat, 01 Aug 2026 11:52:53 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/search": {
+    "https://tayseerme.com/config": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:21 GMT",
+      "Date": "Fri, 01 Aug 2025 11:50:46 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -655,11 +576,102 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E318FD0B4A6CFFBB48601957729;Expires=Sat, 01 Aug 2026 11:50:28 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31D5E9AD84AAD7817CC3588B9C;Expires=Sat, 01 Aug 2026 11:52:53 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/phpmyadmin": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:46 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E316FFA9CC6C910D94EEAFEF4F5;Expires=Sat, 01 Aug 2026 11:52:53 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/ChoosePaymentMethod/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:59 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3125F7325435FE0A5AA65243D6;Expires=Sat, 01 Aug 2026 11:53:06 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/dashboard": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:50:59 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31A9851C4D4D3E4A23DA5A4F1C;Expires=Sat, 01 Aug 2026 11:53:06 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/users/login/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:00 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Cookie, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "Set-Cookie": "csrftoken=BvscTPM97V0oDrullfaoMmWop46vHszmSQwY1Nwu5mnTceVJQxVkWCXqtOD5PLlq; expires=Fri, 31 Jul 2026 11:51:00 GMT; Max-Age=31449600; Path=/; SameSite=Lax, cookiesession1=678A3E31FC6266C41C0DD26B7D81185B;Expires=Sat, 01 Aug 2026 11:53:07 GMT;Path=/;HttpOnly",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip"
+    },
+    "https://tayseerme.com/logout": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:01 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31D2CACD1CF25A21DC33495E4B;Expires=Sat, 01 Aug 2026 11:53:08 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/FailedOrder/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:02 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3193439D8466FDCDC13C528922;Expires=Sat, 01 Aug 2026 11:53:09 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/admin": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:02 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31DAC6CEA6FE96B09A713B2C74;Expires=Sat, 01 Aug 2026 11:53:09 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/settings": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:22 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:02 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -668,89 +680,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3153B3C89EA4F5197780BC3FC0;Expires=Sat, 01 Aug 2026 11:50:29 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/upload": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:22 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E316274DC6A5A0B1313BA1B6325;Expires=Sat, 01 Aug 2026 11:50:29 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/forum": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:22 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3141D92E5544DA6AF1DA27C344;Expires=Sat, 01 Aug 2026 11:50:29 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/public": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:22 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3182B218C5221E41BEEAF0431D;Expires=Sat, 01 Aug 2026 11:50:29 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/wp-includes": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:23 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E317F5DFDF5B56DA43FE92C274C;Expires=Sat, 01 Aug 2026 11:50:30 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/login": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:23 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E313CDE37E79C77951302B8571E;Expires=Sat, 01 Aug 2026 11:50:31 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/ServiceRequestConfirmation/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:24 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31331323D64CA28FB7E12B7348;Expires=Sat, 01 Aug 2026 11:50:31 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E313EC0035052950D772AF3320A;Expires=Sat, 01 Aug 2026 11:53:09 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/assets/index.2f0ea05e.js": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:24 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:02 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Content-Length": "0",
       "Connection": "keep-alive",
@@ -760,11 +694,11 @@
       "X-Content-Type-Options": "nosniff",
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Set-Cookie": "cookiesession1=678A3E31608F0D3DC6D5F037F8BC65CA;Expires=Sat, 01 Aug 2026 11:50:31 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E3126B22F449995D6BE87994CF3;Expires=Sat, 01 Aug 2026 11:53:09 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/database": {
+    "https://tayseerme.com/SuccessOrder/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:24 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:02 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -773,11 +707,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E314831F09AD2A9A24B8E5BF545;Expires=Sat, 01 Aug 2026 11:50:31 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E319191C02B1D2119CC7AED9F59;Expires=Sat, 01 Aug 2026 11:53:10 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/profile": {
+    "https://tayseerme.com/FundingRequests/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:25 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:03 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -786,11 +720,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31C0A6416F1C3C6FD702F51849;Expires=Sat, 01 Aug 2026 11:50:32 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31098ECCE9C07DA208F6E28F85;Expires=Sat, 01 Aug 2026 11:53:10 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/ChoosePaymentMethod/": {
+    "https://tayseerme.com/forum": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:25 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:03 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -799,11 +733,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E316063B7CDBE435B85BC3BEDF0;Expires=Sat, 01 Aug 2026 11:50:32 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E316ABE917EC8B0CD8CDAF2FDAC;Expires=Sat, 01 Aug 2026 11:53:10 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/docs": {
+    "https://tayseerme.com/static": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:25 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:03 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -812,11 +746,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3158EC318FCD6678ADD19478EA;Expires=Sat, 01 Aug 2026 11:50:32 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31E28B1B6F4F1B648FE8A0B88A;Expires=Sat, 01 Aug 2026 11:53:10 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/wp-admin": {
+    "https://tayseerme.com/api": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:25 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:04 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -825,102 +759,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E313D5DC7A8F21748D73D7DE1BF;Expires=Sat, 01 Aug 2026 11:50:32 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/js": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:25 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31FD2DCB81956966CAFD172415;Expires=Sat, 01 Aug 2026 11:50:32 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/users/login/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:26 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Cookie, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "Set-Cookie": "csrftoken=puqSAsDSAbDlr3Bix0MsJvk6cB2i1msstIqtdDDNUGgieg5q1AWI32bcCr44ElRG; expires=Fri, 31 Jul 2026 11:48:26 GMT; Max-Age=31449600; Path=/; SameSite=Lax, cookiesession1=678A3E316B80DFD02590C4BC822DCD30;Expires=Sat, 01 Aug 2026 11:50:33 GMT;Path=/;HttpOnly",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip"
-    },
-    "https://tayseerme.com/images": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:33 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31B4F42D7F0E32ACBCB22E82B6;Expires=Sat, 01 Aug 2026 11:50:40 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/index": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:33 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3139E727E342BE4409A4C0835B;Expires=Sat, 01 Aug 2026 11:50:40 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/logout": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:33 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3100E6DF8460031B8D349E5CAC;Expires=Sat, 01 Aug 2026 11:50:40 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/Services/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:33 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31861505FDD0DF87AE8839BD0D;Expires=Sat, 01 Aug 2026 11:50:40 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/ServicesDetailsRequiredData/": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:33 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31FA6233B352171ECC3AF699D7;Expires=Sat, 01 Aug 2026 11:50:40 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E312E9FBF996756CC1E52F10A71;Expires=Sat, 01 Aug 2026 11:53:11 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/admin/login": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:04 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -929,11 +772,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E3140D951B1C79F45824EBD2CFC;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31CC51582BA636F2B0903CD59E;Expires=Sat, 01 Aug 2026 11:53:11 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/private": {
+    "https://tayseerme.com/profile": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:04 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -942,11 +785,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31B4604FEF2B1072A3F35086F2;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E319D49718B787E4797229DEAA9;Expires=Sat, 01 Aug 2026 11:53:11 GMT;Path=/;HttpOnly"
     },
-    "https://tayseerme.com/help": {
+    "https://tayseerme.com/users": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:05 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -955,37 +798,11 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31404861E5A62E42CD44052466;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/media": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E316507B7E6E543D1D60378442D;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
-    },
-    "https://tayseerme.com/dashboard": {
-      "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
-      "Content-Type": "text/html; charset=utf-8",
-      "Connection": "keep-alive",
-      "Vary": "Accept-Encoding, Origin",
-      "X-Frame-Options": "DENY",
-      "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "same-origin",
-      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
-      "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31DAB648FDB00431790EB50B90;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E31D9B7B7526D8C4307B7516F0E;Expires=Sat, 01 Aug 2026 11:53:12 GMT;Path=/;HttpOnly"
     },
     "https://tayseerme.com/FundingRequestDetails/": {
       "Server": "nginx/1.26.1",
-      "Date": "Fri, 01 Aug 2025 11:48:34 GMT",
+      "Date": "Fri, 01 Aug 2025 11:51:05 GMT",
       "Content-Type": "text/html; charset=utf-8",
       "Connection": "keep-alive",
       "Vary": "Accept-Encoding, Origin",
@@ -994,7 +811,190 @@
       "Referrer-Policy": "same-origin",
       "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
       "Content-Encoding": "gzip",
-      "Set-Cookie": "cookiesession1=678A3E31BB61D4172440F60DDF14ABA5;Expires=Sat, 01 Aug 2026 11:50:41 GMT;Path=/;HttpOnly"
+      "Set-Cookie": "cookiesession1=678A3E315841172D8B7F0FE9D62B9C24;Expires=Sat, 01 Aug 2026 11:53:12 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/wp-admin": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:05 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E311901D80FE5A779D7C55E2E87;Expires=Sat, 01 Aug 2026 11:53:12 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/PaymentPersonalData/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:06 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E315D566415887EC7B851960819;Expires=Sat, 01 Aug 2026 11:53:13 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/test": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:07 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31EB150953589C4DEC2829A3F9;Expires=Sat, 01 Aug 2026 11:53:14 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/ServicesDetailsRequiredData/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:13 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31C777DCD8FBE49F49C4794CB6;Expires=Sat, 01 Aug 2026 11:53:20 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/docs": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:13 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31B97B0F3B9775678EE620DFB7;Expires=Sat, 01 Aug 2026 11:53:20 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/index": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31099B2803C3DCC3D136820A72;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/static/project_react/src/@core/js/bootstrap.min.js": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "application/javascript",
+      "Last-Modified": "Sun, 24 Dec 2023 11:48:16 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding",
+      "ETag": "W/\"65881a80-e759\"",
+      "Expires": "Thu, 31 Dec 2037 23:55:55 GMT",
+      "Cache-Control": "max-age=315360000",
+      "Access-Control-Allow-Origin": "*",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31A46F11C474D9FC741B8A826C;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/private": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31762B84D7CCE00B8E5789A415;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/user": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E317A80E585ADFE7E5ED180DB43;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/Services/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31A0F7FE56ABC29EF912D08848;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/wp-content": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E3196081C2919B018215E0FE880;Expires=Sat, 01 Aug 2026 11:53:21 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/ServicesDetails/": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E314125A8833CEAF2AD0124A321;Expires=Sat, 01 Aug 2026 11:53:22 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/downloads": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:14 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E31A18C18B0BB76CFFD41714F77;Expires=Sat, 01 Aug 2026 11:53:22 GMT;Path=/;HttpOnly"
+    },
+    "https://tayseerme.com/wp-includes": {
+      "Server": "nginx/1.26.1",
+      "Date": "Fri, 01 Aug 2025 11:51:15 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding, Origin",
+      "X-Frame-Options": "DENY",
+      "X-Content-Type-Options": "nosniff",
+      "Referrer-Policy": "same-origin",
+      "P3P": "CP=\"ALL DSP COR PSAa PSDa OUR NOR ONL UNI COM NAV\"",
+      "Content-Encoding": "gzip",
+      "Set-Cookie": "cookiesession1=678A3E313DC9B97928E78E885C18695D;Expires=Sat, 01 Aug 2026 11:53:22 GMT;Path=/;HttpOnly"
     }
   },
   "technologies": [
@@ -1206,112 +1206,12 @@
   "shodan": [],
   "vulnerabilities": [
     {
-      "url": "https://tayseerme.com/api",
+      "url": "https://tayseerme.com/public",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/api",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/assets",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/assets",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/test",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/test",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/PaymentPersonalData/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/PaymentPersonalData/",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/css",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/css",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/config",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/config",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/scripts",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/scripts",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/SuccessPayment/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/SuccessPayment/",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/users",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/users",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/admin",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/admin",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/ServicesDetails/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/ServicesDetails/",
+      "url": "https://tayseerme.com/public",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1326,62 +1226,12 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/backup",
+      "url": "https://tayseerme.com/SuccessPayment/",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/backup",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/user",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/user",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/phpmyadmin",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/phpmyadmin",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/FundingRequests/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/FundingRequests/",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/static",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/static",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/FailedOrder/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/FailedOrder/",
+      "url": "https://tayseerme.com/SuccessPayment/",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1396,62 +1246,32 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/downloads",
+      "url": "https://tayseerme.com/help",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/downloads",
+      "url": "https://tayseerme.com/help",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/SuccessOrder/",
+      "url": "https://tayseerme.com/backup",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/SuccessOrder/",
+      "url": "https://tayseerme.com/backup",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/wp-content",
+      "url": "https://tayseerme.com/css",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/wp-content",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/dashboard/",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/dashboard/",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/search",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/search",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/settings",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/settings",
+      "url": "https://tayseerme.com/css",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1466,32 +1286,22 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/forum",
+      "url": "https://tayseerme.com/assets",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/forum",
+      "url": "https://tayseerme.com/assets",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/public",
+      "url": "https://tayseerme.com/media",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/public",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/wp-includes",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/wp-includes",
+      "url": "https://tayseerme.com/media",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1506,12 +1316,32 @@
       "description": "Potential sensitive file exposure"
     },
     {
+      "url": "https://tayseerme.com/images",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/images",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
       "url": "https://tayseerme.com/ServiceRequestConfirmation/",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
       "url": "https://tayseerme.com/ServiceRequestConfirmation/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/js",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/js",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1526,12 +1356,52 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/profile",
+      "url": "https://tayseerme.com/scripts",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/profile",
+      "url": "https://tayseerme.com/scripts",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/search",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/search",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/dashboard/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/dashboard/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/config",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/config",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/phpmyadmin",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/phpmyadmin",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1546,32 +1416,12 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/docs",
+      "url": "https://tayseerme.com/dashboard",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/docs",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/wp-admin",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/wp-admin",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/js",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/js",
+      "url": "https://tayseerme.com/dashboard",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1581,26 +1431,6 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/images",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/images",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/index",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/index",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
       "url": "https://tayseerme.com/logout",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
@@ -1611,22 +1441,82 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/Services/",
+      "url": "https://tayseerme.com/FailedOrder/",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/Services/",
+      "url": "https://tayseerme.com/FailedOrder/",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/ServicesDetailsRequiredData/",
+      "url": "https://tayseerme.com/admin",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/ServicesDetailsRequiredData/",
+      "url": "https://tayseerme.com/admin",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/settings",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/settings",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/SuccessOrder/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/SuccessOrder/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/FundingRequests/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/FundingRequests/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/forum",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/forum",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/static",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/static",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/api",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/api",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1641,42 +1531,22 @@
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/private",
+      "url": "https://tayseerme.com/profile",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/private",
+      "url": "https://tayseerme.com/profile",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
     {
-      "url": "https://tayseerme.com/help",
+      "url": "https://tayseerme.com/users",
       "type": "information_disclosure",
       "description": "Possible information disclosure"
     },
     {
-      "url": "https://tayseerme.com/help",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/media",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/media",
-      "type": "sensitive_files",
-      "description": "Potential sensitive file exposure"
-    },
-    {
-      "url": "https://tayseerme.com/dashboard",
-      "type": "information_disclosure",
-      "description": "Possible information disclosure"
-    },
-    {
-      "url": "https://tayseerme.com/dashboard",
+      "url": "https://tayseerme.com/users",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     },
@@ -1687,6 +1557,136 @@
     },
     {
       "url": "https://tayseerme.com/FundingRequestDetails/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-admin",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-admin",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/PaymentPersonalData/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/PaymentPersonalData/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/test",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/test",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetailsRequiredData/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetailsRequiredData/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/docs",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/docs",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/index",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/index",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/private",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/private",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/user",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/user",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/Services/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/Services/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-content",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-content",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetails/",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/ServicesDetails/",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/downloads",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/downloads",
+      "type": "sensitive_files",
+      "description": "Potential sensitive file exposure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-includes",
+      "type": "information_disclosure",
+      "description": "Possible information disclosure"
+    },
+    {
+      "url": "https://tayseerme.com/wp-includes",
       "type": "sensitive_files",
       "description": "Potential sensitive file exposure"
     }
